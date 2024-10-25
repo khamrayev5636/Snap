@@ -111,6 +111,8 @@ section .container {
 .item__link {
   text-decoration: none;
   color: #686868;
+  background-color: red;
+  font-size: 18px;
 }
 
 a {
